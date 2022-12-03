@@ -57,3 +57,7 @@ Preparatory material.
 4. Implementation of an image similarity algorithm based on the code from the encoder architecture and a KNN clustering.
 5. Training of the autoencoder for image denoising.
 6. Application of the techniques to images from the Malaria dataset.
+
+**[LAB 4](Lab_4)** <br>
+**Title:** Inception layer <br>
+**Topics:** CNN-based Inception-v4 architecture for a multi-class classification task.
