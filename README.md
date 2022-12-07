@@ -61,3 +61,8 @@ Preparatory material.
 **[LAB 4](Lab_4)** <br>
 **Title:** Inception layer <br>
 **Topics:** CNN-based Inception-v4 architecture for a multi-class classification task.
+
+**[LAB 5](Lab_5)** <br>
+**Title:** Recurrent Neural Networks (NN) <br>
+**Topics:** Design of a classifier based on CNN and RNN. The classifier is used to detect anomalies on ECG signals.
+
