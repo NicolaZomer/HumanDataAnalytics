@@ -66,3 +66,7 @@ Preparatory material.
 **Title:** Recurrent Neural Networks (NN) <br>
 **Topics:** Design of a classifier based on CNN and RNN. The classifier is used to detect anomalies on ECG signals.
 
+**[LAB 6](Lab_6)** <br>
+**Title:** Attention mechanisms + Seq-2-Seq (1/2) <br>
+**Topics:** Neural machine translation through sequence-to-sequence model with attention, part A.
+
