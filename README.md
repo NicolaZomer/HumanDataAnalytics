@@ -70,3 +70,8 @@ Preparatory material.
 **Title:** Attention mechanisms + Seq-2-Seq (1/2) <br>
 **Topics:** Neural machine translation through sequence-to-sequence model with attention, part A.
 
+**[LAB 7](Lab_7)** <br>
+**Title:** Attention mechanisms + Seq-2-Seq (2/2) <br>
+**Topics:** Neural machine translation through sequence-to-sequence model with attention, part B.
+
+
